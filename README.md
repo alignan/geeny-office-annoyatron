@@ -108,10 +108,10 @@ And when it is closed, you can rest assured as the light will go OFF, it is time
 
 Whenever there is a new issue, the following `GET request` will be triggered from `IFTTT` to `Geeny`:
 ````bash
-http://1ffbd1bc-5530-40f4-b7b7-6d1ead22f915-v-22.formula.geeny.io/send-message?thing=bulb&cmd=cmd_on
+http://21b11b72-f1d8-44de-9972-caa248f6dcd1-v-14.formula.geeny.io/send-message?thing=bulb&cmd=cmd_on
 ````
 
 And to turn the light OFF (when an issue is resolved):
 ````bash
-http://1ffbd1bc-5530-40f4-b7b7-6d1ead22f915-v-22.formula.geeny.io/send-message?thing=bulb&cmd=cmd_on
+http://21b11b72-f1d8-44de-9972-caa248f6dcd1-v-14.formula.geeny.io/send-message?thing=bulb&cmd=cmd_on
 ````
