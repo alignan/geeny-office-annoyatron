@@ -1,13 +1,7 @@
-## Account
+# Geeny's device information
 
-````bash
-elias+delta@superscale.io
-deltadelta
-````
+## Develco devices
 
-## About the devices itself
-
-### Things
 `GET https://labs.geeny.io/things/api/v1/things/`
 
 ````bash
