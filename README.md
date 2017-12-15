@@ -22,7 +22,8 @@ A `Formula` has been deployed to Geeny's Docker registry, based on the [Geeny's 
 
 Overall this is what our architecture looks like:
 
-![img/arch.png](img/arach.png)
+![img/arch.png](img/arch.png)
+
 
 ### The window friend
 
